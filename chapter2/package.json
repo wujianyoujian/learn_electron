@@ -1,0 +1,12 @@
+{
+  "name": "chapter2",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ./main.js"
+  },
+  "dependencies": {
+    "electron": "^10.1.0"
+  }
+}
