@@ -1,0 +1,12 @@
+{
+  "name": "chapter3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "devDependencies": {
+    "electron": "^10.1.1"
+  }
+}
